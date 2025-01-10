@@ -7,3 +7,5 @@ r = requests.get("http://127.0.0.1:8000/hotel/4/room/5",
                      "room_name": "Deluxe"})
 
 print(r.json())
+
+

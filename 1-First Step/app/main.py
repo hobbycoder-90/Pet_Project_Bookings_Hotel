@@ -4,7 +4,6 @@ from datetime import date
 from pydantic import BaseModel
 
 
-
 app = FastAPI(
     title="FastAPI PetProject Bookings Hotel",
     version="0.1",
